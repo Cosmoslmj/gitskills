@@ -1,2 +1,6 @@
 ppppp
+<<<<<<< HEAD
 ddddddd
+=======
+kkkkkkkk
+>>>>>>> featurelooooo
